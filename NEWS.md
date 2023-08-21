@@ -1,3 +1,9 @@
+# elastes 0.1.7
+
+* Updated e-mail and copyright holder in `DESCRIPTION` file.
+* Add appropriate PKGNAME-package \alias as per "Documenting packages" in R-exts.
+
+
 # elastes 0.1.6
 
 * Changed T/F to TRUE/FALSE in function's default parameters.
